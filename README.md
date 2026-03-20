@@ -1,2 +1,2 @@
-# sistema-Card-Heros
-Sistema Web
+sistema-usuarios-java
+Sistema CRUD en Java para gestión de usuarios
